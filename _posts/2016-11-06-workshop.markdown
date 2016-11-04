@@ -6,4 +6,6 @@ avatar: "https://s-media-cache-ak0.pinimg.com/originals/c1/a3/9c/c1a39c9092eb11f
 image: "what.jpg"
 date:   2016-11-06 12:12:12
 
-### What ????? Teach so fast!!!!
+### Kidding
+Just kidding
+
