@@ -7,4 +7,3 @@ image: "what.jpg"
 date:   2016-11-06 12:12:12
 
 ### What ????? Teach so fast!!!!
-Kidding...
